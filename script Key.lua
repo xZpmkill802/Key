@@ -1,5 +1,5 @@
 local key = _G.Key
-local check = "https://pastebin.com/raw/E2EjM8qw?key=" .. key
+local check = "https://raw.githubusercontent.com/xZpmkill802/Key/refs/heads/main/Key.lua?key=" .. key
 if game:HttpGet(check) == "Whitelisted" then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/xZpmkill802/Key/refs/heads/main/Key%20Sc.lua"))()
 else
