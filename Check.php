@@ -27,4 +27,4 @@ if (in_array($sub,$keys,TRUE)) {
 } else {
     echo "Not Whitelisted"; 
 }
-?
+?>
